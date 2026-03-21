@@ -30,3 +30,13 @@ This project predicts whether an individual's income is above or below 50K using
 
 ## Key Learning
 This project shows how preprocessing choices, class imbalance, and model selection affect classification performance.
+
+## How to Run
+1. Open the notebook `adult-income-classification.ipynb`
+2. Install required Python packages such as pandas and scikit-learn
+3. Run the notebook cells in order
+
+## Main Models Compared
+- Logistic Regression
+- Random Forest Classifier
+- Class-weighted Logistic Regression
